@@ -1,0 +1,3 @@
+[submodule "CLAMM/lib/forge-std"]
+	path = CLAMM/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
